@@ -1,5 +1,6 @@
 # E-CommerceSQL
 
+## Diagram
 ```mermaid
 ---
 title: E E-Commerce
@@ -45,3 +46,5 @@ erDiagram
     Product ||--o{ Category : belongs_to
 
 ```
+
+
